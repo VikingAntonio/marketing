@@ -1,0 +1,16 @@
+.imghost img {
+  width: 30%;
+}
+
+.imghost {
+  width: 1200px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container img {
+  width: 100%;
+}
+
